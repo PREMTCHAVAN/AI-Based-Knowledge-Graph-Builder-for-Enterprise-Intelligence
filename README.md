@@ -86,7 +86,7 @@ results.json → Entities & Relationships → Graph Visualization
 * BM25
 * Neo4j
 * Groq API (Llama models)
-* NetworkX, Matplotlib
+
 
 ---
 
